@@ -2,9 +2,7 @@
 Lyft Back-End Engineering Virtual Experience Program
 ## Software Architecture
 Useful resources
-- [UML concepts](https://java-programming.mooc.fi/part-11/1-class-diagrams)
-- [UML Introduction Video](https://www.youtube.com/watch?v=UI6lqHOVHic)
-- [UML tools](https://lucid.app/documents#/documents?folder_id=home)
+- [Composition in Python](https://realpython.com/inheritance-composition-python/)<br/>Inheritance and Composition: A Python OOP Guide
 - [Composition and Aggregation](https://en.wikipedia.org/wiki/Class_diagram#Scope)<br/>Differences between Composition and Aggregation
 ## Relational Database Design
 Useful resources
