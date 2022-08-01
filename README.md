@@ -8,8 +8,10 @@ Useful resources
 - [ERD concepts](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/)<br/>Cardinality
 ## Refactoring
 Useful resources
-- [Factory Pattern](https://www.runoob.com/design-pattern/factory-pattern.html)<br/>Factory Pattern
-- [Abstract Factory Pattern](https://www.runoob.com/design-pattern/abstract-factory-pattern.html)<br/>Abstract Factory Pattern
+- [Abstract Factory Pattern](https://refactoringguru.cn/design-patterns/abstract-factory)
+- RUNOOB.COM
+  - [Factory Pattern](https://www.runoob.com/design-pattern/factory-pattern.html)
+  - [Abstract Factory Pattern](https://www.runoob.com/design-pattern/abstract-factory-pattern.html)
 ## Data Munging
 Useful resources
 - [Convert csv into SQLite table in Python](https://www.alixaprodev.com/2022/03/csv-file-into-sqlite-table-in-python.html)<br/>Create table, Insert
