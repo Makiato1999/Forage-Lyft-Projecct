@@ -4,10 +4,12 @@ Lyft Back-End Engineering Virtual Experience Program
 Useful resources
 - [Composition in Python](https://realpython.com/inheritance-composition-python/)<br/>Inheritance and Composition: A Python OOP Guide
 - [Composition and Aggregation](https://en.wikipedia.org/wiki/Class_diagram#Scope)<br/>Differences between Composition and Aggregation
-## Relational Database Design
-Useful resources
 - [ERD Introduction Video](https://www.youtube.com/watch?v=-CuY5ADwn24)<br/>Primary Key and Foreign Key
 - [ERD concepts](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/)<br/>Cardinality
+## Refactoring
+Useful resources
+- [Factory Pattern](https://www.runoob.com/design-pattern/factory-pattern.html)<br/>Factory Pattern
+- [Abstract Factory Pattern](https://www.runoob.com/design-pattern/abstract-factory-pattern.html)<br/>Abstract Factory Pattern
 ## Data Munging
 Useful resources
 - [Convert csv into SQLite table in Python](https://www.alixaprodev.com/2022/03/csv-file-into-sqlite-table-in-python.html)<br/>Create table, Insert
