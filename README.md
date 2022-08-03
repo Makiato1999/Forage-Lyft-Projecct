@@ -19,6 +19,8 @@ Useful resources
 - static method
   - staticmethod用于修饰类中的方法,使其可以在不创建类实例的情况下调用方法，这样做的好处是执行效率比较高。 当然，也可以像一般的方法一样用实例调用该方法。 该方法一般被称为静态方法。 静态方法不可以引用类中的属性或方法，其参数列表也不需要约定的默认参数self
 ## Unit Testing
+How to fix "ImportError: attempted relative import with no known parent package"
+- refer to this [import path issues](https://blog.csdn.net/weixin_41699811/article/details/84965328), then i fixed it
 Useful resources
 - [Convert csv into SQLite table in Python](https://www.alixaprodev.com/2022/03/csv-file-into-sqlite-table-in-python.html)<br/>Create table, Insert
 #### Some issues i have encountered
