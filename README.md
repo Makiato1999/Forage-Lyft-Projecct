@@ -7,6 +7,10 @@ Useful resources
 - [ERD Introduction Video](https://www.youtube.com/watch?v=-CuY5ADwn24)<br/>Primary Key and Foreign Key
 - [ERD concepts](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/)<br/>Cardinality
 ## Refactoring
+Software diagram with factory design pattern
+- Lyft has provided progress1 diagram(answer):[click here](https://github.com/Makiato1999/Forage-Lyft-Project/blob/main/Software%20Architecture/example.pdf)
+- And progress2 answer: [click here](https://github.com/vagabond-systems/forage-lyft-task-2-model-answer)
+<br/>
 Useful resources
 - [Abstract Factory Pattern](https://refactoringguru.cn/design-patterns/abstract-factory)
 - RUNOOB.COM
