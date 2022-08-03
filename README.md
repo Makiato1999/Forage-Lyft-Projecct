@@ -9,8 +9,7 @@ Useful resources
 ## Refactoring
 Software diagram with factory design pattern
 - Lyft has provided progress1 diagram(answer):[click here](https://github.com/Makiato1999/Forage-Lyft-Project/blob/main/Software%20Architecture/example.pdf)
-- And progress2 answer: [click here](https://github.com/vagabond-systems/forage-lyft-task-2-model-answer)
-<br/>
+- And progress2 answer:[click here](https://github.com/vagabond-systems/forage-lyft-task-2-model-answer)
 Useful resources
 - [Abstract Factory Pattern](https://refactoringguru.cn/design-patterns/abstract-factory)
 - RUNOOB.COM
