@@ -21,9 +21,10 @@ Useful resources
 ## Unit Testing
 How to fix "ImportError: attempted relative import with no known parent package"
 - refer to this [import path issues](https://blog.csdn.net/weixin_41699811/article/details/84965328), then i fixed it
-<br/>How to uninstall python package/model
+
+How to uninstall python package/model
 - refer to this [uninstall with 'pip'](https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/)
 Useful resources
-- [Convert csv into SQLite table in Python](https://www.alixaprodev.com/2022/03/csv-file-into-sqlite-table-in-python.html)<br/>Create table, Insert
+- 
 #### Some issues i have encountered
 - [how to fix 'sqlite3.OperationalError: no such column'](https://itecnote.com/tecnote/python-sqlite3-operationalerror-no-such-column-but-im-not-asking-for-a-column/)<br/>When i used f string to write SELECT sql, i forgot the ''
