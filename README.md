@@ -21,6 +21,8 @@ Useful resources
 ## Unit Testing
 How to fix "ImportError: attempted relative import with no known parent package"
 - refer to this [import path issues](https://blog.csdn.net/weixin_41699811/article/details/84965328), then i fixed it
+How to uninstall python package/model
+- refer to this [uninstall with 'pip'](https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/)
 Useful resources
 - [Convert csv into SQLite table in Python](https://www.alixaprodev.com/2022/03/csv-file-into-sqlite-table-in-python.html)<br/>Create table, Insert
 #### Some issues i have encountered
