@@ -24,7 +24,5 @@ How to fix "ImportError: attempted relative import with no known parent package"
 
 How to uninstall python package/model
 - refer to this [uninstall with 'pip'](https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/)
-Useful resources
-- 
-#### Some issues i have encountered
+#### Test-Driven Development
 - [how to fix 'sqlite3.OperationalError: no such column'](https://itecnote.com/tecnote/python-sqlite3-operationalerror-no-such-column-but-im-not-asking-for-a-column/)<br/>When i used f string to write SELECT sql, i forgot the ''
